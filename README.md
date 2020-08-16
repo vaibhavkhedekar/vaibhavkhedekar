@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Vaibhav Khedekar
 
-<!--
-**vaibhavkhedekar/vaibhavkhedekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/vaibhavkhedekar/vaibhavkhedekar/master/profile-banner.jpg" alt="Vaibhav Khedekar">
 
-Here are some ideas to get you started:
+### A full-stack web developer from Mumbai, India. Usually busy in blending awesome ideas to develop super-awesome things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I’m currently working on
+OOPS, V8 Engine, Laravel, React, Crypto Currency
+
+#### I’m currently learning
+Javascript, TypeScript, PHP, GraphQl
+
+#### Ask me about
+Coding, Cooking, Food, Trekking & Travelling
+
+#### How to reach me
+You can drop me Mail on <a href="mailto:contact@vaibhavkhedekar.com">contact@vaibhavkhedekar.com</a>
+or else write message from <a href="http://vaibhavkhedekar.com/contact">here</a>
+
+## Find me here also <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/vaibhavkhedekar/vaibhavkhedekar/master/logo.svg" alt="Logo">
+- <a href="https://www.facebook.com/vaibhav.khedekar">Facebook</a>
+- <a href="https://www.instagram.com/vaibhav.khedekar/">Instagram</a>
+- <a href="https://www.linkedin.com/in/vkhedekar">LinkedIn</a>
+- <a href="https://twitter.com/vvkhedekar">Twitter</a>
