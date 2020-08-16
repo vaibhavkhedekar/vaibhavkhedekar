@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/vaibhavkhedekar/vaibhavkhedekar/master/profile-banner.jpg" alt="Vaibhav Khedekar">
 
-### A full-stack web developer from Mumbai, India. Usually busy in blending awesome ideas to develop super-awesome things!
+### A full-stack web developer from Mumbai, India.<br>Usually busy in blending awesome ideas to develop super-awesome things!
 
 #### I’m currently working on
 OOPS, V8 Engine, Laravel, React, Crypto Currency
