@@ -1,5 +1,22 @@
+<p align="center">
+    <img src="https://socialify.git.ci/vaibhavkhedekar/vaibhavkhedekar/image?custom_description=A+full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Raleway&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" style="margin:0 auto;display:block;width:100%" />
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vkhedekar" style="padding:0 5px">
+    <img alt="LinkdeIN" width="50px" src="./icons/linkedin.png"/>
+    </a>
+    <a href="https://twitter.com/vvkhedekar" style="padding:0 5px">
+    <img alt="X" width="50px" src="./icons/x.png"/>
+    </a>
+    <a href="https://www.instagram.com/vaibhav.khedekar" style="padding:0 5px">
+    <img alt="Instagram" width="50px" src="./icons/instagram.png"/>
+    </a>
+    <a href="https://orcid.org/0009-0000-4578-1267" style="padding:0 5px">
+    <img alt="" width="50px" src="./icons/orcid.svg"/>
+    </a>
+</p>
 <div style="color:#fff;border:2px solid #FFF; border-radius:20px;overflow:hidden;background-color:#000">
-    <img src="https://socialify.git.ci/vaibhavkhedekar/vaibhavkhedekar/image?custom_description=A+full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Raleway&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" style="margin:0 auto;display:block;width:80%" />
+    <!-- <img src="https://socialify.git.ci/vaibhavkhedekar/vaibhavkhedekar/image?custom_description=A+full-stack+web+developer+from+Mumbai%2C+India.%0AUsually+busy+in+blending+ideas+to+develop+awesome+things%21&description=1&font=Raleway&language=1&logo=https%3A%2F%2Fvaibhavkhedekar.com%2Fassets%2Flogo.svg&name=1&pattern=Solid&theme=Auto" style="margin:0 auto;display:block;width:80%" /> -->
     <p style="text-align:center">
         <a href="https://www.linkedin.com/in/vkhedekar" style="padding:0 5px">
         <img alt="LinkdeIN" width="50px" src="./icons/linkedin.png"/>
