@@ -32,6 +32,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavkhedekar&theme=github-dark&custom_title=Vaibhav%20Khedekar%20Activity%20Graph&hide_border=false">
 </p>
 <br/>
+<img src="https://i.imgur.com/waxVImv.png"/>
+<br/>
+<p align="center">
+    <img src="./img/git-wrapped-vaibhavkhedekar-2025.png">
+</p>
 <!-- <img src="https://i.imgur.com/waxVImv.png"/> -->
 <!-- <div align="center">
     <h2>GitHub Data</h2>
