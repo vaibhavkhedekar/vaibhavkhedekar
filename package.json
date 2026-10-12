@@ -1,0 +1,12 @@
+{
+  "name": "vaibhavkhedekar",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README generator",
+  "scripts": {
+    "readme": "node scripts/generate.mjs",
+    "readme:badges": "node scripts/generate.mjs --template badges",
+    "readme:minimal": "node scripts/generate.mjs --template minimal",
+    "readme:list": "node scripts/generate.mjs --list"
+  }
+}

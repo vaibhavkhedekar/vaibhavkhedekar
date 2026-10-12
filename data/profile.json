@@ -1,0 +1,57 @@
+{
+  "template": "badges",
+
+  "name": "Vaibhav Khedekar",
+  "tagline": [
+    "A full-stack web developer from Mumbai, India.",
+    "Usually busy blending ideas to develop awesome things!"
+  ],
+  "github": "vaibhavkhedekar",
+  "website": "https://vaibhavkhedekar.com",
+  "email": "contact@vaibhavkhedekar.com",
+
+  "logo": { "light": "assets/logo/logo.svg", "dark": "assets/logo/logo-light.svg", "width": 80 },
+
+  "status": [
+    { "label": "Role", "message": "Full-stack developer", "color": "2da44e", "logo": "github" },
+    { "label": "Location", "message": "Mumbai, India", "color": "0969da", "logo": "googlemaps" },
+    { "label": "Editor", "message": "VS Code", "color": "2F80ED", "logo": "visualstudiocode" },
+    {
+      "alt": "profile updated",
+      "url": "https://img.shields.io/github/last-commit/vaibhavkhedekar/vaibhavkhedekar?label=profile%20updated&style=flat-square",
+      "only": ["badges"]
+    }
+  ],
+
+  "social": [
+    { "name": "LinkedIn", "text": "LinkedIn", "url": "https://www.linkedin.com/in/vkhedekar", "color": "0077B5", "logo": "linkedin", "icon": "./assets/icons/linkedin.png" },
+    { "name": "X (Twitter)", "text": "@vvkhedekar", "url": "https://x.com/vvkhedekar", "color": "000000", "logo": "x", "icon": "./assets/icons/x.png" },
+    { "name": "Instagram", "text": "Instagram", "url": "https://www.instagram.com/vaibhav.khedekar", "color": "E4405F", "logo": "instagram", "icon": "./assets/icons/instagram.png" },
+    { "name": "ORCID", "text": "ORCID", "url": "https://orcid.org/0009-0000-4578-1267", "color": "A6CE39", "logo": "orcid", "icon": "./assets/icons/orcid.svg" },
+    { "name": "Website", "text": "Website", "url": "https://vaibhavkhedekar.com", "color": "000000", "logo": "googlechrome", "only": ["badges"] },
+    { "name": "Email", "text": "contact@vaibhavkhedekar.com", "url": "mailto:contact@vaibhavkhedekar.com", "color": "c14438", "logo": "gmail", "only": ["badges"] }
+  ],
+
+  "building": ["JavaScript", "Vue", "PHP"],
+  "learning": ["Python", "TypeScript"],
+  "ask": ["web development", "full-stack architecture", "clean code"],
+
+  "stack": [
+    { "name": "JavaScript", "color": "F7DF1E", "logo": "javascript", "logo_color": "black" },
+    { "name": "Vue.js", "color": "4FC08D", "logo": "vuedotjs" },
+    { "name": "PHP", "color": "777BB4", "logo": "php" },
+    { "name": "HTML5", "color": "E34F26", "logo": "html5" },
+    { "name": "CSS3", "color": "1572B6", "logo": "css3" },
+    { "name": "Git", "color": "F05032", "logo": "git" },
+    { "name": "GitHub", "color": "181717", "logo": "github" }
+  ],
+  "learning_stack": [
+    { "name": "Python", "color": "3776AB", "logo": "python" },
+    { "name": "TypeScript", "color": "3178C6", "logo": "typescript" }
+  ],
+
+  "skillicons": {
+    "ids": "js,vue,php,ts,py,html,css,git,vscode",
+    "alt": "JavaScript, Vue, PHP, TypeScript, Python, HTML, CSS, Git, VS Code"
+  }
+}
